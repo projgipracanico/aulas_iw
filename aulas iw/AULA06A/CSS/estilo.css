@@ -1,0 +1,26 @@
+p {
+    color: aqua;
+}
+
+.um {
+    color: rgb(222, 130, 245);
+    border: 2px solid plum;
+    background-color: rgb(228, 183, 191);
+}
+
+.dois {
+    color: blueviolet;
+    border: 2px solid purple;
+    background-color: rgb(138, 103, 138);
+}
+
+.tres { 
+    color: blue;
+    border: 2px solid rgb(10, 10, 95);
+    background-color: rgb(110, 110, 179);
+}
+#titulo{
+    color: rgb(90, 23, 153);
+    border: 2px solid rgb(77, 77, 182);
+    background-color: rgb(218, 168, 218);
+}
